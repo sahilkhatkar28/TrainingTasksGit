@@ -1,0 +1,6 @@
+Task 1: User Authentication System
+
+Description: Build a complete user authentication system with Flask. This system should allow users to sign up, log in, log out, and view their profile.
+	 Requirements: SQLite is used to store user data. Passwords must be hashed using bcrypt for security.
+	 
+Tools: Flask, SQLite, crypt
