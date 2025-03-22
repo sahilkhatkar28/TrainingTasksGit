@@ -1,0 +1,7 @@
+Task 7: FastAPI Task Management API
+
+Description: Create a FastAPI-based Task Management API where users can create, update, delete, and track tasks.
+
+Requirements: Implement authentication, user management, and task assignment features. Use SQLite or MySQL to store data.
+
+Tools: FastAPI, SQLite/MySQL
