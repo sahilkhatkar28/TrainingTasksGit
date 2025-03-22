@@ -1,0 +1,7 @@
+Task 6: Flask and SQLAlchemy ORM
+
+Description: Use SQLAlchemy ORM in a Flask application to manage database interactions. Implement a system to create and manage user profiles with relationships to other tables (e.g., posts, and comments).
+
+Requirements: Ensure that all operations are performed through ORM, including relationships.
+
+Tools: Flask, SQLAlchemy, SQLite/MySQL

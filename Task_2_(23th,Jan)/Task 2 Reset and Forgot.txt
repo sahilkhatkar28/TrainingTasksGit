@@ -1,0 +1,7 @@
+Task 2: Reset and Forgot Password
+
+Description: Extend the authentication system to include password reset and forgot password functionality. When a user forgets their password, they should receive an email with a reset link.
+
+Requirements: Implement email sending using Flask-Mail and secure token generation using its dangers.
+ 
+Tools: Flask, Flask-Mail, SQLite

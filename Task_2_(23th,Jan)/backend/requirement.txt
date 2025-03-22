@@ -1,0 +1,11 @@
+Flask
+flask_bcrypt
+flask_jwt_extended
+flask_cors
+flask_mail
+pysqlite3
+authlib
+starlette
+greenlet
+itsdangerous
+httpx

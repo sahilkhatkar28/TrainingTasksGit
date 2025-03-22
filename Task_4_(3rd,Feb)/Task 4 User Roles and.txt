@@ -1,0 +1,7 @@
+Task 4: User Roles and Permissions
+
+Description: This extension of the previous authentication system supports role-based access control (RBAC). Users can be assigned roles such as “admin” or “user” with specific permissions.
+
+Requirements: Admins can manage users and other admins, while regular users can only access their data.
+
+Tools: Flask, MySQL, SQLite

@@ -1,0 +1,7 @@
+Task 5: FastAPI OAuth2 Login System
+
+Description: Create a FastAPI application that allows OAuth2 login with third-party providers like Google or GitHub.
+
+Requirements: Implement third-party authentication using Authlib and secure the API with JWT tokens.
+
+Tools: FastAPI, Authlib, JWT

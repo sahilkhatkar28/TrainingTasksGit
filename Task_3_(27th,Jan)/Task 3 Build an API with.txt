@@ -1,0 +1,7 @@
+Task 3: Build an API with Flask and MySQL
+
+Description: Create a RESTful API using Flask that performs CRUD operations on user records stored in MySQL. Include authentication via JWT.
+
+Requirements: Implement endpoints for creating, reading, updating, and deleting user records. Secure API with JWT-based authentication.
+
+Tools: Flask, MySQL, Flask-JWT-Extended
