@@ -1,0 +1,15 @@
+Task 13: Notification System with Flask and Celery
+
+Description: Implement a notification system using Flask where background tasks send notifications (e.g., emails) to users.
+
+Requirements: Use Celery to handle background tasks and Redis as the message broker.
+
+Tools: Flask, Celery, Redis, Flask-Mail
+
+commands:
+flask db upgrade
+flask db migrate -m "Initial migration"
+
+sudo systemctl restart redis
+pkill -f celery 
+celery -A src.config.celery_worker worker --loglevel=info

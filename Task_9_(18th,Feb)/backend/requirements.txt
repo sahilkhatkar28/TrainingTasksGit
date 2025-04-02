@@ -1,0 +1,11 @@
+Flask
+Flask-SQLAlchemy
+Flask-Login
+Flask-WTF
+Flask-Migrate
+Flask-Bcrypt
+Flask-CORS
+SQLAlchemy
+flask_sqlalchemy
+flask_jwt_extended 
+flask_bcrypt

@@ -1,0 +1,8 @@
+Task 9: Blog Application with Flask and MySQL
+ 
+ 
+ Description: Build a simple blogging platform where users can register, log in, create, edit, delete, and view blog posts. Each post should have comments and likes.
+ Requirements: Implement user authentication, CRUD for posts and comments, and a like system.
+ 
+ 
+ Tools: Flask, MySQL, Flask-SQLAlchemy

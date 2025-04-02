@@ -1,0 +1,7 @@
+Task 15: Flask REST API with Pagination and Filtering
+
+ Description: Build a Flask API that provides paginated and filtered responses for large datasets (e.g., products or users).
+
+ Requirements: Add features like search, filtering by category, and pagination for API endpoints.
+ 
+ Tools: Flask, MySQL/SQLite, Flask-SQLAlchemy

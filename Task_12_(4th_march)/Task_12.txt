@@ -1,0 +1,7 @@
+Task 12: FastAPI File Upload and Download Service
+
+ Description: Create an API using FastAPI that allows users to upload and download files (e.g., PDFs, and images).
+ 
+ Requirements: Ensure proper validation for file types and sizes. Store file metadata in the database.
+
+ Tools: FastAPI, SQLite/MySQL

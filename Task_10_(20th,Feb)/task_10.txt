@@ -1,0 +1,4 @@
+Task 10: E-Commerce API with FastAPI and SQLite
+ Description: Develop an e-commerce API using FastAPI where users can browse products, add items to the cart, and checkout.
+Requirements: Implement product categories, inventory management, and order processing using SQLite for data storage.
+Tools: FastAPI, SQLite

@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+sqlalchemy
+databases
+jwt
+passlib
+aiosmtplib
+email-validator
+python-jose[cryptography]
