@@ -1,0 +1,4 @@
+Build a Multi-User Blogging Platform with Flask
+ Description: Implement a Flask-based blogging platform that supports multiple users. Each user can create, edit, and delete their own blog posts, but not others’.
+ Requirements: Use SQLAlchemy for database management and implement role-based access control (RBAC).
+ Tools: Flask, SQLAlchemy, SQLite/MySQL

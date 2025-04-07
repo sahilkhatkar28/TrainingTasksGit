@@ -1,0 +1,4 @@
+Flask-Based Inventory Management System
+ Description: Create an inventory management system where users can track products, stock levels, and orders. Include role-based permissions for admin and normal users.
+ Requirements: Use SQLAlchemy with MySQL to manage data and implement basic CRUD operations for inventory and orders.
+ Tools: Flask, MySQL, SQLAlchemy

@@ -1,0 +1,4 @@
+ Social Media API with Flask and MySQL
+ Description: Create a basic social media backend where users can follow each other, post updates, and comment on posts. Include features like a news feed and notifications.
+ Requirements: Implement user authentication, follower/following relationships, and a news feed.
+ Tools: Flask, MySQL, Flask-SQLAlchemy

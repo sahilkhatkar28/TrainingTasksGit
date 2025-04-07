@@ -1,0 +1,4 @@
+ FastAPI with JWT-Based API Authentication
+ Description: Build a FastAPI application that implements user authentication using JWT tokens. The system should include registration, login, and protected routes.
+ Requirements: Use SQLite or MySQL to store user data and handle JWT-based authentication securely.
+ Tools: FastAPI, JWT, SQLite/MySQL
